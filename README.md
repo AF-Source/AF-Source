@@ -1,7 +1,7 @@
 ### Hi, I'm @AF-Source
 
 ## Passion in Programming
-- 🔭 I’m currently working on - [Harvard Referencing Formatter Console Application](https://github.com/AF-Source/Hardvard-Referencing-Console-App)
+- 🔭 I’m currently working on - [Console Application formatting references into Harvard style](https://github.com/AF-Source/Hardvard-Referencing-Console-App)
 - 🌱 I’m currently learning - Advanced C# Concepts and Python 🐍
 - 👯 I’m looking to collaborate with - Anyone familair with C#
 - 💬 Ask me about - C# Concepts, Anytime!
