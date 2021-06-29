@@ -10,5 +10,5 @@ I am happy to see you here!                         ![Visitors](https://visitor-
 
 
 [![AF-Source's github stats](https://github-readme-stats.vercel.app/api?username=AF-Source&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AF-Source/)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AF-Source)](https://github.com/AF-Source/)
+####Languages 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AF-Source&layout=compact)](https://github.com/AF-Source/)
